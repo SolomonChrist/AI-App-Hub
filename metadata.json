@@ -1,0 +1,5 @@
+{
+  "name": "Solomon Christ AI Hub",
+  "description": "A single-page application that automatically fetches and displays all public repositories from the GitHub profile SolomonChrist, providing quick access to each app's repo and live demo.",
+  "requestFramePermissions": []
+}
